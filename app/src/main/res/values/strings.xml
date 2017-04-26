@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnglishDictionaryApp</string>
+    <string name="input_hint">Enter Word</string>
+    <string name="err_network">Please retry with an active internet connection</string>
+    <string name="action_search">Search</string>
+    <string name="err_bad_word">That looks like an invalid word</string>
+</resources>
